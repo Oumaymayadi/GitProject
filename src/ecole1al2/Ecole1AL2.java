@@ -22,6 +22,7 @@ public class Ecole1AL2 {
         Etudiant e3 = new Etudiant(21, "etud", "etud1");
         Etudiant e4 = new Etudiant(2, "etud7", "etud1");
         Etudiant e5 = new Etudiant(3, "etud9", "etud1");
+        System.out.println("oum");
 
         EspritArrayList esprit = new EspritArrayList();
 
