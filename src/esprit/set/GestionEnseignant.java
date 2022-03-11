@@ -7,7 +7,7 @@ package esprit.set;
 
 /**
  *
- * @author wiemhjiri
+ * @author Manel Hamrouni
  */
 public interface GestionEnseignant {
 

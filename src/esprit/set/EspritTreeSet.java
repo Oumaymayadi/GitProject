@@ -11,7 +11,7 @@ import java.util.TreeSet;
 
 /**
  *
- * @author wiemhjiri
+ * @author Manel Hamrouni
  */
 public class EspritTreeSet implements GestionEnseignant{
     
@@ -56,6 +56,8 @@ public class EspritTreeSet implements GestionEnseignant{
         for(Enseignant e:ens){
             System.out.println(e);
         }
+        
+        System.out.println("Lasstest version ");
             
     }
     
